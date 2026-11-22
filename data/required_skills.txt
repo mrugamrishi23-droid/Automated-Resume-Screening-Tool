@@ -1,0 +1,10 @@
+python
+sql
+pandas
+numpy
+scikit-learn
+machine learning
+git
+rest api
+data cleaning
+object oriented programming

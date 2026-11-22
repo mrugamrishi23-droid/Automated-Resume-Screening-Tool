@@ -1,0 +1,6 @@
+Meera Shah
+Java Developer
+Education: BTech Information Technology
+Skills: Java, C++, HTML, CSS, JavaScript, MySQL, Git.
+Projects: Developed a student portal using Java and MySQL. Familiar with debugging,
+object oriented programming and data structures. Beginner Python knowledge.

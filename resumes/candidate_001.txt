@@ -1,0 +1,7 @@
+Asha Rao
+Python Developer Intern
+Education: BTech Computer Science
+Skills: Python, SQL, Pandas, NumPy, scikit-learn, machine learning, Git, REST API,
+data cleaning, object oriented programming.
+Projects: Built a sales forecasting model with Python and Pandas. Developed REST APIs
+and used SQL for data storage. Used Git for version control. Strong debugging and teamwork.

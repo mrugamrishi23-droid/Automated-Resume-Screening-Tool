@@ -1,0 +1,7 @@
+Python Developer Intern
+
+We are looking for a Python Developer Intern to build and maintain data-driven applications.
+The candidate should have Python programming, SQL, Pandas, NumPy, and basic machine learning
+knowledge. Experience with REST APIs, Git, debugging, data cleaning, and communication is useful.
+Candidates should understand object-oriented programming, data structures, and problem solving.
+A computer science or related degree is preferred. Academic projects and internships are relevant.
